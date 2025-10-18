@@ -22,7 +22,7 @@ namespace Catte.PackageProcessor
         private static Object targetFolder;
         private static Object targetAsset;
 
-        [MenuItem("DreadTools/Utility/Package Processor")]
+        [MenuItem("Tools/⚙️🎨 kittyn.cat 🐟/Package Processor/Package Processor Settings", false, 3400)]
         public static void ShowWindow() => GetWindow<PackageProcessorWindow>(false, "Package Processor Settings", true);
         
         private void OnGUI()
