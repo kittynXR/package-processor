@@ -1,7 +1,7 @@
 {
   "name": "cat.kittyn.packageprocessor",
   "displayName": "cátte — Package Processor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make it less tedious to import or export only the things that you need.",
   "gitDependencies": {},
   "vpmDependencies": {},
