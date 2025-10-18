@@ -30,6 +30,31 @@
           ],
           "url": "https://github.com/kittynXR/cat.kittyn.packageprocessor/releases/download/v1.0.2/cat.kittyn.packageprocessor-1.0.2.zip",
           "samples": []
+        },
+        "1.0.3": {
+          "name": "cat.kittyn.packageprocessor",
+          "displayName": "cátte — Package Processor",
+          "version": "1.0.3",
+          "unity": "2019.4",
+          "description": "Make it less tedious to import or export only the things that you need.",
+          "author": {
+            "name": "kittyn",
+            "email": "cat@kittyn.cat",
+            "url": "https://kittyn.cat"
+          },
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "keywords": [
+            "kittyn",
+            "catte",
+            "unity",
+            "editor",
+            "tool",
+            "package"
+          ],
+          "url": "https://github.com/kittynXR/cat.kittyn.packageprocessor/releases/download/v1.0.3/cat.kittyn.packageprocessor-1.0.3.zip",
+          "samples": []
         }
       }
     }
